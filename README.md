@@ -3,7 +3,7 @@
 ### Fresh graduate, looking of new experiences
 - 💼 Bachelor of Mechanical engineering, Chulalongkorn University
 - 👀 Interested in IOT, Mechatronics, Programming, CAD/CAM
-- 🌱 Eager to learn everything new
+- 🌱 Eager to learn
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> 
 
