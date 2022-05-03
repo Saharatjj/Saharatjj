@@ -5,7 +5,9 @@
 - 👀 Interested in IoT, Mechatronics, Programming, CAD/CAM
 - 🌱 Eager to learn
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> 
+[<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />](https://github.com/Saharatjj/CU-Project/tree/develop/Python_Game)
+[<img src="https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white" />](https://github.com/Saharatjj/CU-Project/tree/develop/RaspberryPi)
+[<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />](https://github.com/Saharatjj/CU-Project/tree/develop/Esp32)
 
 ### Contact
 <img height="16" width="16" src="https://img.icons8.com/color/50/000000/facebook.png"/> [facebook] <br />
