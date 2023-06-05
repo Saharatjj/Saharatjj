@@ -1,22 +1,45 @@
-# Hello, I’m Saharat Plypech
+<img src="gif/Github_Header_Banner.gif" width="980" height="306">
 
-### Fresh graduate, looking of new experiences
-- 💼 Bachelor of Mechanical engineering, Chulalongkorn University
-- 👀 Interested in IoT, Mechatronics, Programming, CAD/CAM
-- 🌱 Eager to learn
+# Hi There!👋, I’m **Saharat Plypech** 📣
+
+<img src="https://img.shields.io/static/v1?label=Code Base&message=Python&color=brightgreen&logo=python">
+<img src="https://img.shields.io/static/v1?label=Uptime&message=100%&color=brightgreen">
+<img src="https://img.shields.io/badge/Version-1.1.5-informational">
 
 [<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />](https://github.com/Saharatjj/CU-Project/tree/develop/Python_Game)
 [<img src="https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white" />](https://github.com/Saharatjj/CU-Project/tree/develop/RaspberryPi)
 [<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />](https://github.com/Saharatjj/CU-Project/tree/develop/Esp32)
 
-### Contact
-<img height="16" width="16" src="https://img.icons8.com/color/50/000000/facebook.png"/> [facebook] <br />
-<img height="16" width="16" src="https://img.icons8.com/fluency/48/000000/mail.png"/> saharat_jj@hotmail.com <br />
+I'm a passionate developer enthusiast. Welcome to my Github!
+
+## ✨ **About Me**
+- 💼 Bachelor of Mechanical engineering, Chulalongkorn University
+- 🔭 Currently working on **awesome IoT applications**
+- 👀 Interested in IoT, software development, CAD/CAM
+- 🌱 Constantly learning and exploring **new technologies**
+
+## 🏆 **Skills**
+- 🏷️ Python ⭐⭐⭐⭐
+- 🏷️ C/C++ ⭐⭐⭐
+- 🏷️ JavaScripts ⭐⭐
+- 🏷️ SQL ⭐⭐⭐
+- 🏷️ Data Analysis ⭐⭐⭐
+- 🏷️ CAD/CAM ⭐⭐⭐⭐
+
+## 🛠️ **Tools**
+- 📝 **Development**: VS Code, PyCharm, Arduino IDE, Fusion 360
+- 🧊 **Database**: MySQL, MongoDB, Firebase, CrateDB
+- ✏️ **Design**: Figma, Excalidraw, Lucid Chart
+- 🪧 **Version control**: Git, Github
+
+## ✉️ **Let's Connect**
+<img height="16" width="16" src="https://img.icons8.com/color/50/000000/facebook.png" a=""/> [facebook] <br/>
+<img height="16" width="16" src="https://img.icons8.com/fluency/48/000000/mail.png"/> saharat_jj@hotmail.com <br/>
 <img height="16" width="16" src="https://img.icons8.com/color/48/000000/linkedin.png"/> [LinkedIn]
 
->Never stop **Learning**. Because life never stops **Teaching**.
-<br />
-<br />
+> 🌟 Never stop **Learning**. Because life never stops **Teaching**.
+
+> 🪐 Let's collaborate and **build** something **amazing** together!
 
 [facebook]: https://web.facebook.com/saharatplypech/
 [LinkedIn]: https://www.linkedin.com/in/saharat-plypech-a68767219
