@@ -19,16 +19,26 @@ I'm a passionate developer enthusiast. Welcome to my Github!
 - 🌱 Constantly learning and exploring **new technologies**
 
 ## 🏆 **Skills**
-- 🏷️ Python ⭐⭐⭐⭐
-- 🏷️ C/C++ ⭐⭐⭐
-- 🏷️ JavaScripts ⭐⭐
-- 🏷️ SQL ⭐⭐⭐
-- 🏷️ Data Analysis ⭐⭐⭐
-- 🏷️ CAD/CAM ⭐⭐⭐⭐
+⭐ Programming Language
+- 🏷️ Python
+- 🏷️ Bash/Shell
+- 🏷️ C/C++
+- 🏷️ JavaScripts
+- 🏷️ Java
+- 🏷️ SQL
+- 🏷️ Matlab
+
+⭐ Other Skills
+- 🏷️ Internet of Things
+- 🏷️ Software Design
+- 🏷️ Data Analysis
+- 🏷️ CAD/CAM
+- 🏷️ Chiller Plant System
+- 🏷️ Niagara N4 programming
 
 ## 🛠️ **Tools**
-- 📝 **Development**: VS Code, PyCharm, Arduino IDE, Fusion 360
-- 🧊 **Database**: MySQL, MongoDB, Firebase, CrateDB
+- 📝 **Development**: VS Code, PyCharm, Cursor, Niagara N4, Arduino IDE, Fusion 360
+- 🧊 **Database**: MySQL, MongoDB, Firebase, CrateDB, 
 - ✏️ **Design**: Figma, Excalidraw, Lucid Chart
 - 🪧 **Version control**: Git, Github
 
