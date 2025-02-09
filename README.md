@@ -29,7 +29,7 @@ possible with code.
 
 ## ✉️ **Let's Connect**
 <img height="16" width="16" src="https://img.icons8.com/color/50/000000/facebook.png" a=""/> [facebook] <br/>
-<img height="16" width="16" src="https://img.icons8.com/fluency/48/000000/mail.png"/> saharat.plypech@hotmail.com <br/>
+<img height="16" width="16" src="https://img.icons8.com/fluency/48/000000/mail.png"/> saharat.plypech@gmail.com <br/>
 <img height="16" width="16" src="https://img.icons8.com/color/48/000000/linkedin.png"/> [LinkedIn]
 
 > 🌟 Never stop **LEARNING**. Because life never stops **TEACHING**.
