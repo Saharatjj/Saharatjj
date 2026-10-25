@@ -2,7 +2,7 @@
 
 # Saharat Plypech `v1.1.5`
 
-<img align="right" height="135" src="assets/figures/work.png" alt="Saharat at work in a suit, holding a Better Ideas Bigger Impact mug">
+<img align="left" height="135" src="assets/figures/work.png" alt="Saharat at work in a suit, holding a Better Ideas Bigger Impact mug">
 
 <a href="https://github.com/Saharatjj"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=2DD4BF&vCenter=true&width=460&height=30&lines=IoT+Developer+%C2%B7+Multi-Agent+System+Lead" alt="IoT Developer · Multi-Agent System Lead"></a>
 
@@ -13,7 +13,7 @@ The goal stays simple: a better world for everyone.
 
 ## Current release
 
-<img align="right" height="114" src="assets/figures/offduty.png" alt="Saharat off duty in a denim jacket"><img align="absmiddle" src="assets/tags/added.svg" alt="Added"> IoT Development and Multi-Agent System Lead at **AltoTech Global**<br>
+<img align="left" height="114" src="assets/figures/offduty.png" alt="Saharat off duty in a denim jacket"><img align="absmiddle" src="assets/tags/added.svg" alt="Added"> IoT Development and Multi-Agent System Lead at **AltoTech Global**<br>
 <img align="absmiddle" src="assets/tags/interests.svg" alt="Interests"> AI, IoT and software development<br>
 <img align="absmiddle" src="assets/tags/ongoing.svg" alt="Ongoing"> Constantly learning and exploring new technologies
 
@@ -85,6 +85,8 @@ The goal stays simple: a better world for everyone.
 <img height="165" src="https://github-profile-trophy.vercel.app/?username=Saharatjj&theme=darkhub&no-frame=true&no-bg=true&column=3&margin-w=8" alt="GitHub trophies">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Saharatjj&bg_color=0d1117&color=c9d1d9&line=2dd4bf&point=5eead4&area=true&area_color=2dd4bf&hide_border=true" alt="Contribution activity graph">
 -->
+
+<a href="https://github.com/Saharatjj?tab=achievements"><img src="assets/achievements.svg" alt="Earned GitHub achievements: Pair Extraordinaire, Pull Shark x3, YOLO, Quickdraw"></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/github-snake-dark.svg">

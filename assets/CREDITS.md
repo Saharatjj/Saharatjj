@@ -19,6 +19,10 @@ Brand logos stay trademarks of their owners. They appear here only to name tools
 - **Godot logo** © 2017 Andrea Calabró, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See Godot's [COPYRIGHT.txt](https://github.com/godotengine/godot/blob/master/COPYRIGHT.txt) (`misc/logo/*`).
 - **Blender logo** is a registered trademark of the Blender Foundation, used here to refer to Blender as its [logo guidelines](https://www.blender.org/about/logo/) allow.
 
+## GitHub achievements
+
+The badges in `assets/achievements.svg` (Pair Extraordinaire, Pull Shark, YOLO, Quickdraw) are GitHub's artwork, shown here only because I earned them on this account.
+
 ## Generated cards
 
 The stats, streak and top-languages cards are drawn live by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) (MIT) and [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) (MIT). The typing line comes from [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) (MIT), and the snake from [Platane/snk](https://github.com/Platane/snk) (MIT).
