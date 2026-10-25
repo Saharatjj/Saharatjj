@@ -88,6 +88,16 @@ The goal stays simple: a better world for everyone.
 
 <a href="https://github.com/Saharatjj?tab=achievements"><img src="assets/achievements.svg" alt="Earned GitHub achievements: Pair Extraordinaire, Pull Shark x3, YOLO, Quickdraw"></a>
 
+### Contributions
+
+<p>
+<a href="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/year-0-dark.svg"><img src="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/year-0-button.svg" alt="This year"></a>
+<a href="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/year-1-dark.svg"><img src="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/year-1-button.svg" alt="Last year"></a>
+<a href="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/year-2-dark.svg"><img src="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/year-2-button.svg" alt="2 years ago"></a>
+<a href="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/year-3-dark.svg"><img src="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/year-3-button.svg" alt="3 years ago"></a>
+<a href="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/year-4-dark.svg"><img src="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/year-4-button.svg" alt="4 years ago"></a>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/github-snake.svg">
