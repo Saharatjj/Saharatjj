@@ -1,6 +1,6 @@
 <img src="assets/banner-rounded.webp" width="100%" alt="A sunny developer room with a desk, plants and a city view">
 
-# Saharat Plypech `v1.1.5`
+# Saharat Plypech `v3.0` <img align="absmiddle" src="assets/latest.svg" alt="Latest">
 
 <img align="left" height="135" src="assets/figures/work.png" alt="Saharat at work in a suit, holding a Better Ideas Bigger Impact mug">
 
@@ -100,33 +100,60 @@ The goal stays simple: a better world for everyone.
 <summary><b>Past years</b></summary>
 <br>
 
-<img src="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/year-1-button.svg" alt="Last year">
+<details>
+<summary>2025</summary>
+<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/year-1-dark.svg">
-  <img width="100%" src="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/year-1.svg" alt="Contribution snake, last year">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/snake-2025-dark.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/snake-2025.svg" alt="Contribution snake, 2025">
 </picture>
 
-<img src="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/year-2-button.svg" alt="2 years ago">
+</details>
+
+<details>
+<summary>2024</summary>
+<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/year-2-dark.svg">
-  <img width="100%" src="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/year-2.svg" alt="Contribution snake, 2 years ago">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/snake-2024-dark.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/snake-2024.svg" alt="Contribution snake, 2024">
 </picture>
 
-<img src="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/year-3-button.svg" alt="3 years ago">
+</details>
+
+<details>
+<summary>2023</summary>
+<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/year-3-dark.svg">
-  <img width="100%" src="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/year-3.svg" alt="Contribution snake, 3 years ago">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/snake-2023-dark.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/snake-2023.svg" alt="Contribution snake, 2023">
 </picture>
 
-<img src="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/year-4-button.svg" alt="4 years ago">
+</details>
+
+<details>
+<summary>2022</summary>
+<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/year-4-dark.svg">
-  <img width="100%" src="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/year-4.svg" alt="Contribution snake, 4 years ago">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/snake-2022-dark.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/snake-2022.svg" alt="Contribution snake, 2022">
 </picture>
+
+</details>
+
+<details>
+<summary>2021</summary>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/snake-2021-dark.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/Saharatjj/Saharatjj/output/snake-2021.svg" alt="Contribution snake, 2021">
+</picture>
+
+</details>
 
 </details>
 

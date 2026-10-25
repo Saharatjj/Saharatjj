@@ -1,13 +1,13 @@
-// Draw a contribution snake and a year button for each of the last N calendar years.
-// Files are named by how many years back they are (year-0 = this year), so the
-// README never changes: on Jan 1 every button and snake rolls over by itself.
+// Draw a contribution snake (light and dark) for every calendar year from <firstYear>
+// to now, named snake-<year>.svg and snake-<year>-dark.svg. Past years never change;
+// the current year is redrawn on every run.
 // generate-snake-animation always asks GitHub for the last 12 months, so this
 // adds a from/to date range to its contributions query before it is sent.
-// Usage: GITHUB_TOKEN=... node scripts/snake-years.mjs <user> <years> <outDir>
+// Usage: GITHUB_TOKEN=... node scripts/snake-years.mjs <user> <firstYear> <outDir>
 import { mkdirSync, writeFileSync } from "node:fs";
 import { generateSnakeAnimation } from "generate-snake-animation";
 
-const [user, years, outDir] = process.argv.slice(2);
+const [user, firstYear, outDir] = process.argv.slice(2);
 mkdirSync(outDir, { recursive: true });
 
 let range = null;
@@ -39,23 +39,15 @@ const output = (t) => ({
   animationOptions: { stepDurationMs: 100, frameByStep: 1 },
 });
 
-// Round button, grey at 25% opacity; the label reads in light and dark mode.
-const button = (year) =>
-  `<svg xmlns="http://www.w3.org/2000/svg" width="72" height="30" viewBox="0 0 72 30" role="img" aria-label="${year}">` +
-  `<style>text{fill:#24292f}@media (prefers-color-scheme:dark){text{fill:#e6edf3}}</style>` +
-  `<rect width="72" height="30" rx="15" fill="#6e7681" fill-opacity="0.25"/>` +
-  `<text x="36" y="20" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" font-weight="600">${year}</text></svg>`;
-
 const now = new Date();
-for (let back = 0; back < Number(years); back++) {
-  const year = now.getUTCFullYear() - back;
-  range = { from: `${year}-01-01T00:00:00Z`, to: back === 0 ? now.toISOString() : `${year}-12-31T23:59:59Z` };
+for (let year = Number(firstYear); year <= now.getUTCFullYear(); year++) {
+  const current = year === now.getUTCFullYear();
+  range = { from: `${year}-01-01T00:00:00Z`, to: current ? now.toISOString() : `${year}-12-31T23:59:59Z` };
   const [light, dark] = await generateSnakeAnimation(
     { platform: "github", username: user, githubToken: process.env.GITHUB_TOKEN },
     [output(themes.light), output(themes.dark)],
   );
-  writeFileSync(`${outDir}/year-${back}.svg`, light);
-  writeFileSync(`${outDir}/year-${back}-dark.svg`, dark);
-  writeFileSync(`${outDir}/year-${back}-button.svg`, button(year));
-  console.log(`year-${back} (${year}) done`);
+  writeFileSync(`${outDir}/snake-${year}.svg`, light);
+  writeFileSync(`${outDir}/snake-${year}-dark.svg`, dark);
+  console.log(`snake-${year} done`);
 }

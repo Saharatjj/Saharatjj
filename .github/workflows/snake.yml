@@ -21,10 +21,10 @@ jobs:
         with:
           node-version: 22
 
-      # A snake and a button for each of the last 5 years, for the README year buttons.
+      # One snake per calendar year since 2021, for the Past years section of the README.
       - run: |
           npm install --no-save generate-snake-animation@3.5.0
-          node scripts/snake-years.mjs ${{ github.repository_owner }} 5 dist
+          node scripts/snake-years.mjs ${{ github.repository_owner }} 2021 dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
