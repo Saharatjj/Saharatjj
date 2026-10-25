@@ -111,6 +111,8 @@ Passionate developer who loves to create and learn new things. Currently working
   <img src="assets/chips/email.svg" alt="saharat.plypech@gmail.com">
 </p>
 
+<sub>Icon and logo credits: <a href="assets/CREDITS.md">assets/CREDITS.md</a></sub>
+
 <!---
 Saharatjj/Saharatjj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
