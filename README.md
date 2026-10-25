@@ -2,13 +2,15 @@
 
 # Saharat Plypech `v1.1.5`
 
+<img align="right" height="120" src="assets/figures/work.png" alt="Saharat at work in a suit, holding a Better Ideas Bigger Impact mug">
+
 <a href="https://github.com/Saharatjj"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=2DD4BF&vCenter=true&width=460&lines=IoT+Developer+%C2%B7+Multi-Agent+System+Lead" alt="IoT Developer · Multi-Agent System Lead"></a>
 
 Passionate developer who loves to create and learn new things. Currently working on projects that push the boundaries of what's possible with code.
 
 ## Current release
 
-<img align="absmiddle" src="assets/tags/added.svg" alt="Added"> IoT Development and Multi-Agent System Lead at **AltoTech Global**<br>
+<img align="right" height="120" src="assets/figures/offduty.png" alt="Saharat off duty in a denim jacket"><img align="absmiddle" src="assets/tags/added.svg" alt="Added"> IoT Development and Multi-Agent System Lead at **AltoTech Global**<br>
 <img align="absmiddle" src="assets/tags/interests.svg" alt="Interests"> AI, IoT and software development<br>
 <img align="absmiddle" src="assets/tags/ongoing.svg" alt="Ongoing"> Constantly learning and exploring new technologies
 

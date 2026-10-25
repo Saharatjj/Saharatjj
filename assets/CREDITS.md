@@ -1,6 +1,6 @@
 # Credits
 
-The icons in `assets/icons/` come from open-source icon sets, downloaded through [Iconify](https://iconify.design). The chips in `assets/chips/` embed those icons. Everything else in `assets/` (tags, labels, project cards, release notes) was made for this profile. The banner (`gif/banner.webp`, `assets/banner-rounded.webp`) is an image I generated myself with an AI image tool.
+The icons in `assets/icons/` come from open-source icon sets, downloaded through [Iconify](https://iconify.design). The chips in `assets/chips/` embed those icons. Everything else in `assets/` (tags, labels, project cards, release notes) was made for this profile. The banner (`gif/banner.webp`, `assets/banner-rounded.webp`) and the two figures (`assets/figures/`) are images I generated myself with an AI image tool.
 
 Brand logos stay trademarks of their owners. They appear here only to name tools I use, not to suggest any endorsement.
 
