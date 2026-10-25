@@ -2,15 +2,18 @@
 
 # Saharat Plypech `v1.1.5`
 
-<img align="right" height="120" src="assets/figures/work.png" alt="Saharat at work in a suit, holding a Better Ideas Bigger Impact mug">
+<img align="right" height="135" src="assets/figures/work.png" alt="Saharat at work in a suit, holding a Better Ideas Bigger Impact mug">
 
-<a href="https://github.com/Saharatjj"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=2DD4BF&vCenter=true&width=460&lines=IoT+Developer+%C2%B7+Multi-Agent+System+Lead" alt="IoT Developer · Multi-Agent System Lead"></a>
+<a href="https://github.com/Saharatjj"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=2DD4BF&vCenter=true&width=460&height=30&lines=IoT+Developer+%C2%B7+Multi-Agent+System+Lead" alt="IoT Developer · Multi-Agent System Lead"></a>
 
-Passionate developer who loves to create and learn new things. Currently working on projects that push the boundaries of what's possible with code.
+Mechanical engineer by degree, IoT engineer by choice.<br>
+I began at a Thai startup, building tech for people and the planet.<br>
+Today I lead the IoT and Multi-Agent System team at **AltoTech Global**.<br>
+The goal stays simple: a better world for everyone.
 
 ## Current release
 
-<img align="right" height="120" src="assets/figures/offduty.png" alt="Saharat off duty in a denim jacket"><img align="absmiddle" src="assets/tags/added.svg" alt="Added"> IoT Development and Multi-Agent System Lead at **AltoTech Global**<br>
+<img align="right" height="114" src="assets/figures/offduty.png" alt="Saharat off duty in a denim jacket"><img align="absmiddle" src="assets/tags/added.svg" alt="Added"> IoT Development and Multi-Agent System Lead at **AltoTech Global**<br>
 <img align="absmiddle" src="assets/tags/interests.svg" alt="Interests"> AI, IoT and software development<br>
 <img align="absmiddle" src="assets/tags/ongoing.svg" alt="Ongoing"> Constantly learning and exploring new technologies
 
@@ -103,7 +106,7 @@ Passionate developer who loves to create and learn new things. Currently working
 
 ## Release notes
 
-<img src="assets/release-notes.svg" alt="Never stop learning, because life never stops teaching. Let's collaborate and build something cool together.">
+<img src="assets/release-notes.svg" alt="The best way to predict the future is to invent it. (Alan Kay) Never stop learning, because life never stops teaching. Let's collaborate and build something cool together.">
 
 ## Support
 
